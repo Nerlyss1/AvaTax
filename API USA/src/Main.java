@@ -31,7 +31,7 @@ public class Main {
         HttpURLConnection connection = (HttpURLConnection) url.openConnection();
         connection.setRequestMethod("POST");
         connection.setRequestProperty("X-Avalara-Client", "{X-Avalara-Client}");
-        connection.setRequestProperty("Authorization", "Basic <aHR0cHdhdGNoOmY=");
+        connection.setRequestProperty("Authorization", "Basic codeàmettre");
         connection.setRequestProperty("Content-Type", "application/json");
         connection.setDoOutput(true);
 
