@@ -23,3 +23,7 @@ Ce projet suppose que vous avez déjà configuré votre compte AvaTax et obtenu 
 **Remarque**
 
 Ce projet est destiné à des fins éducatives et démontre comment utiliser l'API d'AvaTax avec Gson et Unirest pour créer des transactions. Assurez-vous de respecter les règles d'utilisation appropriées lors de l'intégration de l'API d'AvaTax dans votre propre projet.
+
+## Auteur
+
+Ce projet a été développé par [Nerlyss1](https://github.com/Nerlyss1).
